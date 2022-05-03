@@ -1,0 +1,4 @@
+Ajax essentially is a combination of technologies that are integrated together to
+ reduce the number of page loads. We generally use Ajax to ease end-user 
+ experience. Using Ajax in Django can be done by directly using 
+ an Ajax library like JQuery or others.
